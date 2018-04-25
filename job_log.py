@@ -1,11 +1,5 @@
 """
-
-
-
 This is a rough code for a general idea
-
-
-
 """
 
 class Details:
