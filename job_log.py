@@ -1,3 +1,13 @@
+"""
+
+
+
+This is a rough code for a general idea
+
+
+
+"""
+
 class Details:
     def __init__(self, first, date):
         self.firstname = first
